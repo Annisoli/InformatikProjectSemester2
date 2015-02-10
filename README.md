@@ -8,7 +8,10 @@ namespace RPGKampfsystemConsoleEntwurf
 	{
 		public static void Main(string[] args)
 		{
-			//Variabelen für die Lebenspunkte des Spielers und Gegners initialisieren:
+			
+			//INSERT COOSE_WEAPON CODE HERE!
+			
+			//Variablen für die Lebenspunkte des Spielers und Gegners initialisieren:
 			double dLPgegner = 100;
 			double dLPspieler = 100;
 			//Variable für den Schaden:
